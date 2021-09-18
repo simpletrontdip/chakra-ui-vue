@@ -152,13 +152,13 @@ export default {
 ```vue live=true
 <template>
   <c-stack>
-    <c-radio-group v-model="selectedHorizonatal" is-inline>
+    <c-radio-group v-model="selectedHorizontal" is-inline>
       <c-radio value="1" is-disabled>Disabled</c-radio>
       <c-radio value="2">Unchecked</c-radio>
       <c-radio value="3">Unchecked</c-radio>
     </c-radio-group>
     <c-text>
-      Selected: {{ selectedHorizonatal }}
+      Selected: {{ selectedHorizontal }}
     </c-text>
   </c-stack>
 </template>
@@ -167,7 +167,7 @@ export default {
 export default {
   data () {
     return {
-      selectedHorizonatal: '1'
+      selectedHorizontal: '1'
     }
   }
 }
