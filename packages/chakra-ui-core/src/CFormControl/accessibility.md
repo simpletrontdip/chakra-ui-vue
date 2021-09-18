@@ -1,6 +1,6 @@
 # Form Control | Accessibility ♿️
 
-This report is adapted to list the accessiblity features supported by Chakra UI for the `CFormControl` component.
+This report is adapted to list the accessibility features supported by Chakra UI for the `CFormControl` component.
 
 ### Description
 `CFormControl` provides context such as `isInvalid`, `isDisabled`, and `isRequired` to form elements. This context is used by the following components:

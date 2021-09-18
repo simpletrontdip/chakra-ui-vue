@@ -4,7 +4,7 @@
  * ControlBox provides style props to change it's styles based
  * on a sibling checkbox or radio input.
  *
- * In order to keep prerve accessiblity, it relies on a common
+ * In order to keep preserve accessibility, it relies on a common
  * [CSS technique](https://dev.to/lkopacz/create-custom-keyboard-accessible-checkboxes-2036)
  * for styling custom controls.
  *

@@ -1,9 +1,9 @@
 # Divider | Accessibility ♿️
 
-This report is adapted to list the accessiblity features supported by Chakra UI for the `CDivider` component.
+This report is adapted to list the accessibility features supported by Chakra UI for the `CDivider` component.
 
 ### Description
-The `CDivider` component is used to display a thin horizontal or vertical line between sibling elments
+The `CDivider` component is used to display a thin horizontal or vertical line between sibling elements
 to provide a visual queue between regions on the UI
 
 ### `CDivider` WAI-ARIA compliance

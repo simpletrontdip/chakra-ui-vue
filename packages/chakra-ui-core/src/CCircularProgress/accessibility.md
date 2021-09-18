@@ -1,6 +1,6 @@
 # Circular Progress | Accessibility ♿️
 
-This report is adapted to list the accessiblity features supported by Chakra UI for the `CCircularProgress` component.
+This report is adapted to list the accessibility features supported by Chakra UI for the `CCircularProgress` component.
 
 ### Description
 The Circular Progress component is used to indicates the progress for both determinate and indeterminate processes.

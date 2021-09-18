@@ -1,6 +1,6 @@
 # CloseButton | Accessibility ♿️
 
-This report is adapted to list the accessiblity features supported by Chakra UI for the `CCloseButton` component.
+This report is adapted to list the accessibility features supported by Chakra UI for the `CCloseButton` component.
 
 ### Description
 The `CCloseButton` component renders a button element, so it's browser accessible by default. We only modify it's appearance
